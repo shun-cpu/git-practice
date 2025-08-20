@@ -2,3 +2,4 @@ apple
 orange
 banana
 これは new0feature ブランチの変更です
+main側の変更
